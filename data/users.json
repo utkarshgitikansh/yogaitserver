@@ -1,422 +1,422 @@
-{
-  "Adho": {
+[
+  {
     "name": "Adho",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Adho.png",
     "image": "king",
     "id": 1
   },
-  "AdhoMukV": {
+  {
     "name": "AdhoMukV",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/AdhoMukV.png",
     "image": "king",
     "id": 2
   },
-  "AdhoMukhaVirasana": {
+  {
     "name": "AdhoMukhaVirasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/AdhoMukhaVirasana.png",
     "image": "king",
     "id": 3
   },
-  "ArdhaChan": {
+  {
     "name": "ArdhaChan",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/ArdhaChan.png",
     "image": "king",
     "id": 4
   },
-  "Baddha": {
+  {
     "name": "Baddha",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Baddha.png",
     "image": "king",
     "id": 5
   },
-  "Bharadvaj": {
+  {
     "name": "Bharadvaj",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Bharadvaj.png",
     "image": "king",
     "id": 6
   },
-  "Bhujangasana": {
+  {
     "name": "Bhujangasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Bhujangaasan-cobra.gif",
     "image": "king",
     "id": 7
   },
-  "PadnagusthaDandasana": {
+  {
     "name": "PadnagusthaDandasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/PadnagusthaDandasana%20.png",
     "image": "king",
     "id": 8
   },
-  "ParsvaEkapada": {
+  {
     "name": "ParsvaEkapada",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/ParsvaEkapada.png",
     "image": "king",
     "id": 9
   },
-  "ParsvaHasta": {
+  {
     "name": "ParsvaHasta",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/ParsvaHasta.gif",
     "image": "king",
     "id": 10
   },
-  "Parsvasonatana": {
+  {
     "name": "Parsvasonatana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Parsvasonatana.png",
     "image": "king",
     "id": 11
   },
-  "Parvatasana": {
+  {
     "name": "Parvatasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Parvatasna.png",
     "image": "king",
     "id": 13
   },
-  "Prasarita": {
+  {
     "name": "Prasarita",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Prasarita.png",
     "image": "king",
     "id": 14
   },
-  "SalambaSarv": {
+  {
     "name": "SalambaSarv",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/SalambaSarv.png",
     "image": "king",
     "id": 15
   },
-  "Savasana": {
+  {
     "name": "Savasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Savasana.png",
     "image": "king",
     "id": 16
   },
-  "Padmasana": {
+  {
     "name": "Padmasana",
     "yoga_img": "https://225508-687544-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/04/Padmasana.jpg",
     "image": "king",
     "id": 17
   },
-  "SuptaKonasana": {
+  {
     "name": "SuptaKonasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/SuptaKonasana.png",
     "image": "king",
     "id": 18
   },
-  "Tadasana": {
+  {
     "name": "Tadasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Tadasana2.png",
     "image": "king",
     "id": 19
   },
-  "Tidasana": {
+  {
     "name": "Tidasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Tidasana.png",
     "image": "king",
     "id": 20
   },
-  "UParsvak": {
+  {
     "name": "UParsvak",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/UParsvak.png",
     "image": "king",
     "id": 21
   },
-  "Trikonasana": {
+  {
     "name": "Trikonasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/UTrikonasana.png",
     "image": "king",
     "id": 22
   },
-  "Upavista": {
+  {
     "name": "Upavista",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Upavista.png",
     "image": "king",
     "id": 23
   },
-  "UrdhvaMukhaSva": {
+  {
     "name": "UrdhvaMukhaSva",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/UrdhvaMukhaSva.png",
     "image": "king",
     "id": 24
   },
-  "Urhva Badd": {
+  {
     "name": "Urhva Badd",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Urhva%20Badd.jpg",
     "image": "king",
     "id": 25
   },
-  "UrhvaBaddang": {
+  {
     "name": "UrhvaBaddang",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/UrhvaBaddang.png",
     "image": "king",
     "id": 26
   },
-  "Utkatasana": {
+  {
     "name": "Utkatasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Utkatasana.png",
     "image": "king",
     "id": 27
   },
-  "Paschimottanasana": {
+  {
     "name": "Paschimottanasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/pascimottanasana.jpg",
     "image": "king",
     "id": 28
   },
-  "Pavanmuktasana": {
+  {
     "name": "Pavanmuktasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/pawanmuktasana.jpg",
     "image": "king",
     "id": 29
   },
-  "Shavasana": {
+  {
     "name": "Shavasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/shavasana.jpg",
     "image": "king",
     "id": 30
   },
-  "ustrasana": {
+  {
     "name": "ustrasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/ustrasana.jpg",
     "image": "king",
     "id": 31
   },
-  "virasana": {
+  {
     "name": "virasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/virasana.jpg",
     "image": "king",
     "id": 32
   },
-  "Lolasana": {
+  {
     "name": "Lolasana",
     "yoga_img": "https://www.yogapedia.com/images/uploads/f8eb72fb-e876-4e5b-adcb-b7ec14646718.png",
     "image": "king",
     "id": 32
   },
-  "Purna-Salabhasana": {
+  {
     "name": "Purna-Salabhasana",
     "yoga_img": "https://www.sarvyoga.com/wp-content/uploads/2016/02/Shalabhasana-Locust-Pose-steps.jpg",
     "image": "king",
     "id": 32
   },
-  "Shashankasana": {
+  {
     "name": "Shashankasana",
     "yoga_img": "https://truthstar-tgt5cps4e32fytbrgae.netdna-ssl.com/wp-content/uploads/2015/04/SHASHANKASANA.jpg",
     "image": "king",
     "id": 32
   },
-  "Adva-Matsyasana": {
+  {
     "name": "Adva-Matsyasana",
     "yoga_img": "https://www.ebhasin.com/apps/PersonalTrainer/modules/yoga/images/Matsyasana%20(Fish%20pose)/big/1.jpg",
     "image": "king",
     "id": 33
   },
-  "Ardha-Matsyendrasana": {
+  {
     "name": "Ardha-Matsyendrasana",
     "yoga_img": "https://www.yogapedia.com/images/uploads/7bb4b28c35e641d69e0f2f87e5561959.png",
     "image": "king",
     "id": 34
   },
-  "Kapalbhati": {
+  {
     "name": "Kapalbhati",
     "yoga_img": "http://1.bp.blogspot.com/-NN4bEq5JDCQ/UOAKhk3OHqI/AAAAAAAAADw/Hy18EYauVTE/s320/pranayam.jpg",
     "image": "king",
     "id": 35
   },
-  "Sarvangasana": {
+  {
     "name": "Sarvangasana",
     "yoga_img": "https://eveyoga.com/wp-content/uploads/2010/04/sarvangasana.jpg",
     "image": "king",
     "id": 36
   },
-  "Siddhasana": {
+  {
     "name": "Siddhasana",
     "yoga_img": "https://eveyoga.com/wp-content/uploads/2010/04/Siddhasana.jpg",
     "image": "king",
     "id": 37
   },
-  "Shirshasana": {
+  {
     "name": "Shirshasana",
     "yoga_img": "https://eveyoga.com/wp-content/uploads/2011/12/parivrtta-janu-sirsasana.jpg",
     "image": "king",
     "id": 38
   },
-  "Supta-Vajrasana": {
+  {
     "name": "Supta-Vajrasana",
     "yoga_img": "http://3.bp.blogspot.com/-PY8rcei9mQc/VMBqBEfFUVI/AAAAAAAABMM/oBF4KIepQwc/s1600/Supta%2BVajrasana%2B(sleeping%2Bthunderbolt%2Bpose)1.png",
     "image": "king",
     "id": 39
   },
-  "Akaran-Dhanurasana": {
+  {
     "name": "Akaran-Dhanurasana",
     "yoga_img": "https://secureservercdn.net/160.153.138.71/mgd.8d2.myftpupload.com/wp-content/uploads/2019/10/Dhanurasana-768x949.png",
     "image": "king",
     "id": 40
   },
-  "Chakrasana": {
+  {
     "name": "Chakrasana",
     "yoga_img": "https://horoppayoga.files.wordpress.com/2011/01/ardha-chakrasana.jpg",
     "image": "king",
     "id": 41
   },
-  "Dhanurasana": {
+  {
     "name": "Dhanurasana",
     "yoga_img": "https://www.ebhasin.com/apps/apps-source/Personal%20Trainer/modules/yoga/images/Dhanurasana/big/3.Jpg",
     "image": "king",
     "id": 42
   },
-  "Gomukhasana": {
+  {
     "name": "Gomukhasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/gomukhasana%281%29.jpg",
     "image": "king",
     "id": 43
   },
-  "Matsyendrasana": {
+  {
     "name": "Matsyendrasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/ardha_matsyendrasana.jpg",
     "image": "king",
     "id": 44
   },
-  "Simhasana": {
+  {
     "name": "Simhasana",
     "yoga_img": "https://3.bp.blogspot.com/-BzMh9HjX6wg/V5YBEsP27lI/AAAAAAAABNM/rUwVavSiagIO_dhPzbz5RtPYXyMgRZo_ACLcB/s1600/simhasana.jpg",
     "image": "king",
     "id": 45
   },
-  "Setu-Bandha-Sarvangasana": {
+  {
     "name": "Setu-Bandha-Sarvangasana",
     "yoga_img": "https://www.boldsky.com/img/2017/06/16-1497609174-bridgepose.jpg",
     "image": "king",
     "id": 46
   },
-  "Halasana": {
+  {
     "name": "Halasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Halasana.png",
     "image": "king",
     "id": 47
   },
-  "Hastapadasana": {
+  {
     "name": "Hastapadasana",
     "yoga_img": "https://www.artofliving.org/sites/www.artofliving.org/files/wysiwyg_imageupload/3_33.jpg",
     "image": "king",
     "id": 48
   },
-  "Vajrasana": {
+  {
     "name": "Vajrasana",
     "yoga_img": "http://www.joanwhiteyoga.com/images/asanas/Vajrasana.png",
     "image": "king",
     "id": 49
   },
-  "Yoga-Mudra": {
+  {
     "name": "Yoga-Mudra",
     "yoga_img": "https://sattvayogabyron.com.au/wp-content/uploads/2020/01/mudra-750x675.jpg",
     "image": "king",
     "id": 50
   },
-  "Mandukasana": {
+  {
     "name": "Mandukasana",
     "yoga_img": "https://www.ayuruniverse.com/blogs/wp-content/uploads/2017/12/Mandukasana-3.jpg",
     "image": "king",
     "id": 51
   },
-  "Mayurasana": {
+  {
     "name": "Mayurasana",
     "yoga_img": "https://www.sarvyoga.com/wp-content/uploads/2017/01/Mayurasana-Peacock-Pose-steps.jpg",
     "image": "king",
     "id": 52
   },
-  "Neck and Eye exercises": {
+  {
     "name": "Neck and Eye exercises",
     "yoga_img": "https://www.prehabexercises.com/wp-content/uploads/2014/08/Neck-Mobility-The-Basic-Range-of-Motion-for-the-Neck.png",
     "image": "king",
     "id": 53
   },
-  "Sitali": {
+  {
     "name": "Sitali",
     "yoga_img": "https://static.wixstatic.com/media/2a9b2d_43fe5720c1f942d8829436261bf4d95e~mv2.jpg/v1/fit/w_300,h_300,al_c,q_5/file.jpg",
     "image": "king",
     "id": 54
   },
-  "Katti-Chakrasana": {
+  {
     "name": "Katti-Chakrasana",
     "yoga_img": "http://1.bp.blogspot.com/-X969nzM27YQ/VMCXSEHEX7I/AAAAAAAABNM/SUSRGatLd8s/s1600/Kati%2BChakrasana%2B(waist%2Brotating%2Bpose).PNG",
     "image": "king",
     "id": 55
   },
-  "Vakrasana": {
+  {
     "name": "Vakrasana",
     "yoga_img": "http://www.arthritis-india.com/uploads/siteimages/sitting-4.jpg",
     "image": "king",
     "id": 56
   },
-  "Paripurna-Navasana": {
+  {
     "name": "Paripurna-Navasana",
     "yoga_img": "https://cdn.virily.com/wp-content/uploads/2017/08/img075-1-1.jpg",
     "image": "king",
     "id": 57
   },
-  "Majrasana": {
+  {
     "name": "Majrasana",
     "yoga_img": "https://cdn.virily.com/wp-content/uploads/2017/08/img075-1-1.jpg",
     "image": "king",
     "id": 58
   },
-  "Sitting Poses": {
+  {
     "name": "Sitting Poses",
     "yoga_img": "https://images.all-free-download.com/images/graphiclarge/yoga_poses_stylized_clip_art_15781.jpg",
     "image": "king",
     "id": 59
   },
-  "Uddiyan-bandha": {
+  {
     "name": "Uddiyan-bandha",
     "yoga_img": "https://fivepillarsyoga.com/wp-content/uploads/2016/12/UddiyanaBandha-715x726.jpg",
     "image": "king",
     "id": 60
   },
-  "Tiriyaka-Tadasana": {
+  {
     "name": "Tiriyaka-Tadasana",
     "yoga_img": "https://hathayogarishikesh.weebly.com/uploads/2/1/5/4/21546058/__1426093085.png",
     "image": "king",
     "id": 61
   },
-  "Ushtrasana": {
+  {
     "name": "Ushtrasana",
     "yoga_img": "http://www.diya.net.in/var/node/236/ustrasana.jpg",
     "image": "king",
     "id": 62
   },
-  "Adho-Mukha-Svanasana": {
+  {
     "name": "Adho-Mukha-Svanasana",
     "yoga_img": "https://www.mapsofindia.com/ci-moi-images/my-india/2019/10/adho-mukha-svanasana.jpg",
     "image": "king",
     "id": 63
   },
-  "Balasana": {
+  {
     "name": "Balasana",
     "yoga_img": "https://personaltrainer.ebhasin.com/upload/Balasana.jpg",
     "image": "king",
     "id": 64
   },
-  "Bhastrika": {
+  {
     "name": "Bhastrika",
     "yoga_img": "http://1.bp.blogspot.com/-g4DwPXo8uFM/U4aoJyNOPGI/AAAAAAAACqU/p_OOtsobmBo/s1600/Full+Lotus+Pose.jpg",
     "image": "king",
     "id": 65
   },
-  "Sun-Salutation": {
+  {
     "name": "Sun-Salutation",
     "yoga_img": "https://graceandyoga.files.wordpress.com/2012/08/picture2b1.png",
     "image": "king",
     "id": 66
   },
-  "Ujjai": {
+  {
     "name": "Ujjai",
     "yoga_img": "https://hindi.boldsky.com/img/2017/10/16-1508128321-4.jpg",
     "image": "king",
     "id": 67
   },
-  "All Inverted Postures": {
+  {
     "name": "All Inverted Postures",
     "yoga_img": "https://images.squarespace-cdn.com/content/v1/5b3947f3da02bc79ba002af3/1545088266207-IVTOLSDPUY17NQXVY81C/ke17ZwdGBToddI8pDm48kAIfcJFZGpKtNVBALNrbl4R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UdlhlfMoa8Y1wWYxdMje9fFpVIGjtp1XTfRmqZtrwLZf2UGDRv25SZiBt7ZrLzpCiQ/i03_Forearm+stand.jpg",
     "image": "king",
     "id": 68
   }
-}
+]
